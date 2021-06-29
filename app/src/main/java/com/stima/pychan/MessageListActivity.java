@@ -43,13 +43,13 @@ public class MessageListActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_message_list);
 
-        user = new User("kamu");
-        pychanUser = new User("Pychan");
+        user = new User("Saad Ahmed");
+        pychanUser = new User("Saad");
 
         messageList = new ArrayList<Message>();
-        messageList.add(new Message("Halo, Aku Pychan!", pychanUser));
-        messageList.add(new Message("Aku adalah chatbot yang suka menjawab rasa penasaran dan keisenganmu!", pychanUser));
-        messageList.add(new Message("Eh, sebelumnya, kenalan dulu, dong! Nama kamu siapa?", pychanUser));
+        messageList.add(new Message("Hello, I am Help Mate!", pychanUser));
+        messageList.add(new Message("I am a chatbot who likes to answer About Sindh University", pychanUser));
+        messageList.add(new Message("Uh, before that, first acquaintance, please! What is your name?", pychanUser));
 
         sendButton = findViewById(R.id.button_chatbox_send);
         userChatInput = findViewById(R.id.edittext_chatbox);
@@ -105,8 +105,8 @@ public class MessageListActivity extends AppCompatActivity {
                         userChatInput.getText().clear();
                         user.setNickname(content);
                         mMessageAdapter.notifyDataSetChanged();
-                        messageList.add(new Message("Halo, " + user.getNickname() + "! Salam kenal!", pychanUser));
-                        messageList.add(new Message("Kalau ada pertanyaan, langsung tanya aja, ya!", pychanUser));
+                        messageList.add(new Message("Hello, " + user.getNickname() + "! greetings!", pychanUser));
+                        messageList.add(new Message("If you have questions, just ask straight away!", pychanUser));
                     }
                 }
 
@@ -130,10 +130,10 @@ public class MessageListActivity extends AppCompatActivity {
                 while((temp = buffreader.readLine()) != null){
                     data.add(temp);
             }
-            System.out.println("BERHASIL");
+            System.out.println("SUCCESSFUL");
 //            in.close();
         }catch(Exception e){
-            System.out.println("Gagal membaca file " + resId);
+            System.out.println("Failed to read file " + resId);
 //            System.exit(1);
             e.printStackTrace();
         }

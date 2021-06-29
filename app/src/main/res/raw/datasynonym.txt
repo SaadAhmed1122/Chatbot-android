@@ -1,7 +1,7 @@
-apakah=apa
-bagaimanakah=bagaimana
-siapakah=siapa
-berapakah=berapa
-dimanakah=dimana
-membangun=membuat
-kamu=anda
+what = what
+how = how
+who = who
+how much = how much
+where = where
+build = make
+you = you

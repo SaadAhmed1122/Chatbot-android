@@ -1,77 +1,29 @@
-Siapa nama koordinator dosen mata kuliah strategi algoritma 2018/2019? Rinaldi Munir
-Siapa nama koordas strategi algoritma? Kevin Andrian Liwinata
-Berapa jumlah SKS minimal untuk lulus S1 di ITB? 144 SKS
-Apa kepanjangan SKSD? Sistem Komunikasi Satelit Domestik
-Tanggal berapa diadakan pemilu tahun ini? 17 April 2019
-Sudah berapa kali diadakan pemilu presiden? 4 Kali
-Pemilu diadakan berapa kali setahun? 5 tahun sekali
-Siapa saja pembuat anda? Aku dibuat oleh Reyhan Naufal Hakim, Nando Rusrin Pratama, Willy Santoso
-Apa saja stack yang dipakai untuk membuat anda? Program chatbot menggunakan bahasa pemrograman Java, dan data disimpan pada ArrayList
-Apa nama ibukota Indonesia? DKI Jakarta.
-Apa nama ibukota Malaysia? Tentu saja, Kuala Lumpur.
-Apa nama ibukota Singapura? Tentu saja, Singapura.
-Apa nama ibukota Thailand? Tentu saja, Bangkok.
-Apa nama ibukota Vietnam? Tentu saja, Hanoi.
-Apa nama ibukota Kamboja? Tentu saja, Phnom Penh.
-Apa nama ibukota Laos? Tentu saja, Vientiane.
-Apa nama ibukota Brunei Darussalam? Tentu saja, Bandar Sri Begawan.
-Apa nama ibukota Timor Leste? Tentu saja, Dili.
-Apa nama ibukota Filipina? Tentu saja, Manila.
-Apa nama ibukota Myanmar? Tentu saja, Napyidaw.
-Apa nama ibukota HongKong? Tentu saja, Hongkong City.
-Apa nama ibukota Jepang? Tentu saja, Tokyo
-Apa nama ibukota Korea Utara? Tentu saja, Pyongyang.
-Apa nama ibukota Korea Selatan? Tentu saja, Seoul.
-Apa nama ibukota Tiongkok? Tentu saja, Beijing.
-Apa nama ibukota India? Tentu saja, New Delhi.
-Apa nama ibukota Australia? Tentu saja, Melbourne.
-Apa nama ibukota Selandia Baru? Tentu saja, Wellington.
-Apa nama ibukota Perancis? Tentu saja, Paris.
-Apa nama ibukota Jerman? Tentu saja, Berlin.
-Apa nama ibukota Belanda? Tentu saja, Amsterdam.
-Apa nama ibukota Italia? Tentu saja, Roma.
-Apa nama ibukota Spanyol? Tentu saja, Madrid.
-Apa nama ibukota Portugal? Tentu saja, Lisabon.
-Apa nama ibukota Rusia? Tentu saja, Moskow.
-Apa nama ibukota Polandia? Tentu saja, Warsawa.
-Apa nama ibukota Mexico? Tentu saja, Mexico City.
-Apa nama ibukota Amerika Serikat? Tentu saja, Washington DC.
-Apa nama ibukota Brasil? Tentu saja, Rio de Janeiro.
-Apa nama ibukota Peru? Tentu saja, Lima.
-Apa nama ibukota Argentina? Tentu saja, Buenos Aires.
-Nama ibukota Indonesia sebelum disebut Jakarta adalah? Jayakarta
-Siapa pembuat algoritma KMP? Knuth-Morris-Prat
-Siapa pemain catur nomor satu dunia sekarang? Magnus Carlsen
-Apa nama blackhole yang berada di tengah galaksi bimasakti? Blackhole M87
-Siapa nama pemain karakter wanita yang direbutkan oleh kedua pria dalam lagu "adu rayu"? velove vexia
-Berapa jumlah presiden Indonesia? Tujuh orang
-Tahun berapa Indonesia merdeka? 1945
-Berapa tahun Indonesia dijajah Jepang? 3 setengah tahun
-Dimana Soekarno memproklamasikan kemerdekaan Indonesia? Jl. Pegangsaan Timur No.56
-Dimana kantin terdekat Labtek 5? Kantin Borju
-Hai? Halo, aku Pychan. Ada yang ingin kamu tanyakan?
-Siapa anda? Aku adalah Pychan!
-Apa Kabar? Aku selalu luar biasa!
-Apa itu Pychan? Pychan adalah aku! Aku adalah Pychan~!
-Apa itu Chatbot? Chatbot merupakan agen cerdas yang meniru kemampuan manusia untuk melakukan percakapan dengan pengguna manusia. Contohnya ya aku! :>
-Apa bintang terdekat dari matahari? Proxima Centauri 
-Apa julukan Planet Mars? Planet merah
-Kenapa permukaan planet mars merah? Karena permukaan planet mars mengandung batuan besi
-Siapa pendiri SpaceX? Elon Musk
-Apa julukan Pulau Bali? Pulau Dewata dan Pulau Seribu Pulau
-Apa candi terbesar di dunia? Candi Angkor Wat di Kamboja
-Apa candi terbesar di Indonesia? Candi Borobudur
-Apa kepanjangan dari batagor? Batagor adalah singkatan dari baso, tahu goreng.
-Apa itu tteokbokki? Tteokbokki adalah penganan Korea berupa tteok dari tepung beras yang dimasak dalam bumbu gochujang yang pedas dan manis.
-Apa itu rendang? Rendang atau randang adalah masakan daging bercita rasa pedas yang menggunakan campuran dari berbagai bumbu dan rempah-rempah.
-Apa itu Kaviar? Kaviar adalah makanan yang terbuat dari telur ikan tertentu, umumnya ikan sturgeon, yang sudah diproses dan digarami.
-Apa mamalia terbesar di dunia? Paus biru
-Apa burung terkecil di dunia? Bee Hummingbird
-Apa Lambang Negara Indonesia? Lambang negara Indonesia adalah Garuda Pancasila dengan semboyan Bhinneka Tunggal Ika. 
-Siapakah pengetik teks proklamasi? Mohamad Ibnu Sayuti atau yang lebih dikenal sebagai Sayuti Melik.
-Kapan Indonesia merdeka? 17 Agustus 1945
-Siapa pendiri Alibaba? Jack Ma.
-Siapa pendiri Google? Larry Page & Sergey Brin
-Siapa pendiri Microsoft? Bill Gates & Paul Allen
-Siapa pendiri Facebook? Mark Zuckerberg
-Siapa pendiri Apple? Steve Jobs, Ronald Wayne, dan Steve Wozniak
+What is the name of university? The University of Sindh Sindhi informally known as Sindh University
+where it is located? It is a public research university in the education city of Jamshoro, Sindh, Pakistan near the city of Hyderabad
+Is this oldest university? It is one of the oldest universities in Pakistan and was certified by ISO in 2015
+What is the ranking of University? In 2013, the University was ranked eighth in "General Category" by the Higher Education Commission of Pakistan
+How many campus of Sindh university? The University has two main campusesand seven other campuses
+Where are these department located? Jamshoro Hyderabad Badin Mirpurkhas Larkana Dadu Naushahro Firoz  Bhit Shah Thatta
+How many department in university of Sindh? There are 52 departments in University of Sindh
+Who is the Vice-Chancellor of University? The current vice-chancellor of university is Dr Siddique Kalhoro
+Where is the central administration of universities? The University's central administration headed by the vice chancellor is located in central Jamshoro
+Who is the registrar of university? Mr. Ghulam Muhammad Bhutto
+Vice-chancellor? Dr Siddique Kalhoro
+registrar? Mr. Ghulam Muhammad Bhutto
+What do you do? I am made to give you the information about Sindh University
+Is there hostel available? Yes there is saperate hostel for Boys and Girls
+University? Sindh University Jamshoro
+What is your name? Help-Mate
+Name? Help-Mate
+Who are you? I am chatbot
+YOU ARE LAZY? Actually I work 24 hours a day
+YOU ARE MAD? No I am quite logical and rational
+YOU ARE FUNNY? Thanks you make me laugh too
+YOU ARE UNDERSTANDING? I am an understanding machine
+YOU ARE LITTLE? In terms of memory, yes I am quite small
+YOU ARE MODEST? I was raised well
+CAN YOU FLY? Only in my dreams
+CAN YOU TOUCH? I have no hands yet
+HOW MANY PEOPLE CAN YOU TALK TO AT ONCE? It depends on the server, but right now around 1000
+Are you real? No i can work on virtual
+Who made you?Mr Mustafa made me

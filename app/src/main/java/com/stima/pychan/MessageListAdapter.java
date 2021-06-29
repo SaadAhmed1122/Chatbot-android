@@ -142,7 +142,7 @@ public class MessageListAdapter extends RecyclerView.Adapter {
             timeText.setText(strDate);
 
             // Insert the profile image from the URL into the ImageView.
-            Bitmap picture = BitmapFactory.decodeResource(mContext.getResources(), R.drawable.pychansuper);
+            Bitmap picture = BitmapFactory.decodeResource(mContext.getResources(), R.drawable.sindhunilogo);
             profileImage = profileImage.findViewById(R.id.image_message_profile);
 
             Bitmap circleBitmap = Bitmap.createBitmap(picture.getWidth(), picture.getHeight(), Bitmap.Config.ARGB_8888);
